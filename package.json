@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "inquirer": "^8.2.1"
-  }
+  },
+  "name": "portfolio-generator",
+  "description": "portfolio generator using node.js project for UCLA Extension Full Stack Web Dev bootcamp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niksharpkings/portfolio-generator.git"
+  },
+  "author": "Nikita Sharpio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niksharpkings/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Niksharpkings/portfolio-generator#readme"
 }
